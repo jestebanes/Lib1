@@ -1,0 +1,14 @@
+{
+  "name": "Lib1",
+  "keywords": "LED, arduino",
+  "description": "Control led device",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/jestebanes/Lib1"
+  },
+  "version": "1.0.1",
+  "exclude": "doc",
+  "frameworks": "arduino",
+  "platforms": ["arduino"]
+}

@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map for library LibFtp
+#######################################
+
+#######################################
+# KEYWORD1 Classes, datatypes, and C++ keywords
+#######################################
+Lib1	KEYWORD1
+ 
+#######################################
+# KEYWORD2 Methods and functions
+#######################################
+
+# Support functions
+blink	KEYWORD2
+check	KEYWORD2
+setPeriod	KEYWORD2
+getPeriod	KEYWORD2
+
+#######################################
+# KEYWORD3 setup and loop functions, as well as the Serial keywords
+#######################################
+
+#######################################
+# LITERAL1 Constants
+#######################################
