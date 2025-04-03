@@ -1,1 +1,1 @@
-Time library using NTP prtocol for use in ESP32
+Library for blinking leds
