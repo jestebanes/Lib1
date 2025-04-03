@@ -21,6 +21,7 @@ class Lib1{
   public:
     Lib1(uint8_t pin);
     void blink(int rep);
+	void init();
 	void check();
     void setPeriod(int period);
 	int getPeriod();
